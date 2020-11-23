@@ -1,9 +1,6 @@
-# 🚨 Don't change the code below 👇
-year = int(input("Which year do you want to check? "))
-# 🚨 Don't change the code above 👆
+#A program to find out if a year is a leap year or not.
 
-#Write your code below this line 👇
-#On every year that is evenly divisible by 4 **except** every year that is evenly divisible by 100 **unless** the year is also evenly divisible by 400
+year = int(input("Which year do you want to check? "))
 
 # Method 1:
 # if (year % 4 == 0) and (year % 100 != 0):
