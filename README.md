@@ -4,9 +4,7 @@
 
 # Instructions
 
-Write a program that works out whether if a given year is a leap year. A normal year has 365 days, leap years have 366, with an extra day in February. The reason why we have leap years is really fascinating, this video does it more justice:
-
-[https://www.youtube.com/watch?v=xX96xng7sAE](https://www.youtube.com/watch?v=xX96xng7sAE)
+Write a program that works out whether if a given year is a leap year. A normal year has 365 days, leap years have 366, with an extra day in February.
 
 This is how you work out whether if a particular year is a leap year. 
 
@@ -58,26 +56,4 @@ Leap year.
 Not leap year.
 ```
 
-e.g. When you hit **run**, this is what should happen:  
-
- ![](https://cdn.fs.teachablecdn.com/AthNqKoSm6JD4sMom2X2)
-
-# Hint
-
-1. Try to visualise the rules by creating a flow chart on www.draw.io
-2. If you really get stuck, you can see the flow chart I created: 
-
-https://bit.ly/36BjS2D
-
-# Test Your Code
-
-Before checking the solution, try copy-pasting your code into this repl: 
-
-[https://repl.it/@appbrewery/day-3-3-test-your-code](https://repl.it/@appbrewery/day-3-3-test-your-code)
-
-This repl includes my testing code that will check if your code meets this assignment's objectives. 
-
-
-# Solution
-
-[https://repl.it/@appbrewery/day-3-3-solution](https://repl.it/@appbrewery/day-3-3-solution)
+- Problem Statement from AppBrewery's 100 Days of Code 
